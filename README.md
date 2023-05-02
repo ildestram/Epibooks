@@ -1,3 +1,3 @@
 # d2-epicode
 
-progetto epicode
+Modulo 5 esercizi svolti dal D1 al D6 
